@@ -1,0 +1,21 @@
+{
+	"PluginFileVersion" : 3,
+
+	"FriendlyName" : "Victory Blueprint Library",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "Rama",
+	"CreatedByURL" : "http://www.ue4code.com",
+	"EngineVersion" : 1579795, 
+	"Description" : "120+ Custom Blueprint Nodes For You! <3 Rama",
+	"Category" : "Rama",
+	 
+	"Modules" :
+	[	
+		{
+			"Name" : "VictoryBPLibrary",
+			"Type" : "Runtime",
+			"LoadingPhase" : "PreDefault"
+		}
+	]
+}
